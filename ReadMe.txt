@@ -7,4 +7,4 @@ In the project directory run the following to set up the required libraries
 
 To run the app
 
-`Test_Digits.py`
+`python Test_Digits.py`
