@@ -2,6 +2,7 @@
 ## Instructions to run
 
 In the project directory run the following to set up the required libraries
+Clone this code on your PC
 
 `pip install -r requirements.txt`
 
